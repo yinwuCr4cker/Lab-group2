@@ -327,7 +327,7 @@ LABS = [
 - `initial` = your first letter (char)
 
 Print them with labels like `Name: Alice`""",
-        "hint": "Declare variable like this => string name = Hengly . Use cout << to print.",
+        "hint": "Declare variable like this => string name = \"Hengly\" . Use cout << to print.",
         "starter": """#include <iostream>
 #include <string>
 using namespace std;
